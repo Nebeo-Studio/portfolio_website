@@ -16,7 +16,6 @@ A modern portfolio website with integrated functions for blog and projects as we
 ## Features
 
 - Multilingual support
-- Dark/light theme mode
 - Responsive design
 - Blog section
 - Projects showcase
